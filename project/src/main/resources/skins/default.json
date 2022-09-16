@@ -1,0 +1,105 @@
+{
+    "main_menu": {
+        "background_image": "images/backgrounds/main_menu.png",
+        "text_color": "white",
+        "background_music": {
+            "audio/mainMenu.mp3": 3
+        }
+    },
+    "game": {
+        "background_image": {
+            "images/tileset/walls/wooden/wood_floor_0.png": 5,
+            "images/tileset/walls/wooden/wood_floor_1.png": 7,
+            "images/tileset/walls/wooden/wood_floor_2.png": 10,
+            "images/tileset/walls/wooden/wood_floor_3.png": 2
+        },
+        "background_music": {
+            "audio/BackGround.mp3": 3
+        },
+        "resolution_px": 16,
+        "item_box": "images/ui/box.png",
+        "text_color": "white"
+    },
+    "entities": {
+        "boulder": "images/tileset/entities/boulder_00.png",
+        "bow": "images/tileset/items/bow_0.png",
+        "player": {
+            "images/tileset/entities/player01.png": 1,
+            "images/tileset/entities/player02.png": 2,
+            "images/tileset/entities/player03.png": 3,
+            "images/tileset/entities/player04.png": 4
+        },
+        "bomb": "images/tileset/items/bomb.png",
+        "wood": "images/tileset/entities/box_wood.png",
+        "arrows": "images/tileset/items/arrow_0.png",
+        "exit": "images/tileset/entities/stairs_down.png",
+        "treasure": {
+            "images/tileset/items/treasure_0.png": 1,
+            "images/tileset/items/treasure_1.png": 2,
+            "images/tileset/items/treasure_2.png": 3,
+            "images/tileset/items/treasure_3.png": 4,
+            "images/tileset/items/treasure_4.png": 5
+        },
+        "wall": "images/tileset/walls/wooden/wood_bottom.png",
+        "spider": "images/tileset/entities/spider_00.png",
+        "mercenary": {
+            "images/tileset/entities/ranger01.png": 1,
+            "images/tileset/entities/ranger02.png": 2,
+            "images/tileset/entities/ranger03.png": 3,
+            "images/tileset/entities/ranger04.png": 4,
+            "images/tileset/entities/ranger05.png": 5,
+            "images/tileset/entities/ranger06.png": 6,
+            "images/tileset/entities/ranger07.png": 7,
+            "images/tileset/entities/ranger08.png": 8,
+            "images/tileset/entities/ranger09.png": 9,
+            "images/tileset/entities/ranger10.png": 10
+        },
+        "switch": "images/tileset/floor_switch.png",
+        "invincibility_potion": "images/tileset/items/potion_10.png",
+        "invisibility_potion": "images/tileset/items/potion_2.png",
+        "health_potion": "images/tileset/items/potion_4.png",
+        "sword": "images/tileset/items/sword_silver.png",
+        "lockedDoor": "images/tileset/walls/wooden/door_locked_silver.png",
+        "openDoor":"images/tileset/walls/wooden/door_unlocked.png",
+        "silverKey": "images/tileset/items/key_silver.png",
+        "shield": "images/tileset/items/shield.png",
+        "goldKey": "images/tileset/items/key_gold.png",
+        "zombieToast": {
+            "images/tileset/entities/zombie_00.png": 5,
+            "images/tileset/entities/zombie_01.png": 6,
+            "images/tileset/entities/zombie_02.png": 7,
+            "images/tileset/entities/zombie_03.png": 8,
+            "images/tileset/entities/zombie_04.png": 9,
+            "images/tileset/entities/zombie_05.png": 10,
+            "images/tileset/entities/zombie_06.png": 11,
+            "images/tileset/entities/zombie_07.png": 12,
+            "images/tileset/entities/zombie_08.png": 13,
+            "images/tileset/entities/zombie_09.png": 14,
+            "images/tileset/entities/zombie_10.png": 15,
+            "images/tileset/entities/zombie_11.png": 16,
+            "images/tileset/entities/zombie_12.png": 17
+        },
+        "zombietoastspawner": "images/tileset/entities/zombie_spawner.png",
+        "bombUsed": "images/tileset/items/bomb.png",
+        "armour": "images/tileset/items/armour.png",
+        "theOneRing": "images/tileset/items/ring_0_special.png",
+        "portal": {
+            "images/tileset/entities/portal_00.png": 5,
+            "images/tileset/entities/portal_01.png": 6,
+            "images/tileset/entities/portal_02.png": 7,
+            "images/tileset/entities/portal_03.png": 8
+        },
+        "swampTile": "images/tileset/entities/swamp_tile.png",
+        "anduril": "images/tileset/entities/anduril.png",
+        "assassin": "images/tileset/entities/assassin.png",
+        "hydra": "images/tileset/entities/hydra.png",
+        "sceptre": "images/tileset/entities/sceptre.png",
+        "midnight_armour": "images/tileset/entities/midnight_armour.png",
+        "sunstone": "images/tileset/entities/sun_stone.png",
+        "light_bulb_off": "images/tileset/entities/offbulb.png",
+        "wire": "images/tileset/entities/wire.png",
+        "light_bulb_on": "images/tileset/entities/lightbulb.png",
+        "switch_door": "images/tileset/walls/wooden/door_locked_silver.png",
+        "switch_door_open":  "images/tileset/walls/wooden/door_unlocked.png"
+    }
+}
